@@ -1,0 +1,9 @@
+.body{
+   width:50vh;
+   height: 200px;
+   margin: 0 auto;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   background: url('https://wallpapertops.com/walldb/original/f/4/a/261521.jpg') 0 0/100% 100% no-repeat ;   
+}

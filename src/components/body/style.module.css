@@ -1,0 +1,21 @@
+.body{
+   width: 60vh;
+   height: 60vh;
+      margin: 0 auto;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.btn{
+   border: 1px solid black;
+   display: inline-block;
+   padding: 10px 30px;
+   border-radius: 10px;
+   margin: 10px;
+   background: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1612222707_7-p-fioletovii-fon-bez-nichego-yarkii-9.jpg');
+   font-size: 26px;
+   font-style: italic;
+   cursor: pointer;
+   color: wheat;
+}

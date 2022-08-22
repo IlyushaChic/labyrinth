@@ -1,0 +1,57 @@
+.body{
+   width: 32%;
+   height: 32%;
+   border: 1px solid black;
+   border-radius: 15px;
+   background: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1612196553_21-p-fioletovii-fon-na-ves-ekran-26.jpg') 0 0 /100% 100% no-repeat;
+}
+.start{
+   display: wisible;   
+   background: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1613290264_165-p-sinii-fon-doroga-221.jpg')0 0 /100% 100% no-repeat;
+   height: 100%;
+   text-align: center;
+   overflow:hidden ;
+   border-radius: 15px;
+   color: aliceblue;
+   font-size: 26px;   
+}
+.startNone{
+   display: none;  
+}
+.goodNone{
+   display: none;   
+}
+.good{
+   background:url('https://catherineasquithgallery.com/uploads/posts/2021-02/1612564390_79-p-yarko-zelenii-fon-abstraktsiya-114.jpg')0 0 /100% 100% no-repeat  ;
+   height: 100%;
+   text-align: center;
+   overflow:hidden ;
+   border-radius: 15px;
+   color: aliceblue;
+   font-size: 26px;
+}
+.error{
+   display:wisible;
+   background:url('https://top-fon.com/uploads/posts/2021-07/1626955066_44-p-krasnii-fon-v-visokom-kachestve-44.jpg')0 0 /100% 100% no-repeat ;
+   height: 100%;
+   text-align: center;
+   overflow:hidden ;
+   border-radius: 15px;
+   color: aliceblue;
+   font-size: 26px;   
+}
+.errorNone{
+   display: none;
+}
+.there{
+   background: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1613161263_54-p-zheltii-fon-obichnii-71.jpg')0 0 /100% 100% no-repeat;
+   height: 100%;
+   text-align: center;
+   overflow:hidden ;
+   border-radius: 15px;
+   color: black;
+   font-size: 26px;  
+}
+.thereNone{
+   display: none;
+}
